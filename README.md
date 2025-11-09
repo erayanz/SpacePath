@@ -1,17 +1,18 @@
 # SpacePath
 SpacePath is an educational iOS application developed using Swift and SwiftUI designed to introduce beginners to the fundamentals of space, astronomy, and planetary science.
 
-This GitHub repository provides the complete source code for the app, offering a practical example of:
 
-SwiftUI implementation for a clean, cross-platform user interface.
+### This GitHub repository provides the complete source code for the app, offering a practical example of:
 
-Integrating external Swift libraries (e.g., for 3D visualizations or AR features).
+- SwiftUI implementation for a clean, cross-platform user interface.
 
-Structuring a feature-rich educational application for iOS.
+- Integrating external Swift libraries (e.g., for 3D visualizations or AR features).
 
-It serves as a valuable learning resource for both space enthusiasts and aspiring iOS developers looking to build engaging educational content.
+- Structuring a feature-rich educational application for iOS.
 
-Key Features (Examples to include in the README)
+- It serves as a valuable learning resource for both space enthusiasts and aspiring iOS developers looking to build engaging educational content.
+
+### Key Feature:
 
 Interactive Solar System Models: Explore planets with 3D models and key statistical data.
 
