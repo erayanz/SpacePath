@@ -11,7 +11,7 @@ import SwiftUI
 struct SpacePathApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ARmap()
         }
     }
 }
